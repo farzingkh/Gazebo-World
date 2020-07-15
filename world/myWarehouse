@@ -1,5 +1,6 @@
 <sdf version='1.6'>
   <world name='default'>
+  <plugin name="hello" filename="libhello.so"/>
     <light name='sun' type='directional'>
       <cast_shadows>1</cast_shadows>
       <pose frame=''>0 0 10 0 -0 0</pose>
@@ -9,7 +10,7 @@
         <range>1000</range>
         <constant>0.9</constant>
         <linear>0.01</linear>
-        <quadratic>0.001</quadratic>
+        <quadratic>0.001</quadratic>Ï
       </attenuation>
       <direction>-0.5 0.1 -0.9</direction>
     </light>
