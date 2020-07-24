@@ -24,7 +24,7 @@ The **myrobot** lab part of RoboND Gazebo Basics lesson. The purpose of this lab
 └── <font color="#3465A4"><b>world</b></font>
     └── myOffice
 </pre>                   
-```
+
 
 ### Steps to launch the simulation
 
