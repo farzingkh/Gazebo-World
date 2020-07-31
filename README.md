@@ -1,3 +1,6 @@
+# Gazebo World
+A Gazebo world with a four wheeled robot
+### Directory Structure
 <pre><font color="#3465A4"><b>.</b></font>
 ├── CMakeLists.txt
 ├── <font color="#3465A4"><b>images</b></font>
